@@ -33,4 +33,4 @@
  <a href="https://www.linkedin.com/in/javier-gonzalez-1a432896" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-![Snake animation](https://github.com/seuusuario/javinho-gonzalez/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/javinho-gonzalez/javinho-gonzalez/blob/output/github-contribution-grid-snake.svg)
